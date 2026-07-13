@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     url: "https://luxe-restaurant-fawn.vercel.app",
     images: [
       {
-        url: "https://luxe-restaurant-fawn.vercel.app/audit/landing_page_1783938254829.png",
+        url: "https://luxe-restaurant-fawn.vercel.app/audit/hero_clean.png",
         width: 1200,
         height: 630,
         alt: "L’Étoile Contemporary Fine Dining",
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "L’Étoile | Contemporary Haute Cuisine and Fine Dining",
     description: "Experience culinary mastery at L’Étoile. Curated tasting menus in an elegant dark-mode luxury setting.",
-    images: ["https://luxe-restaurant-fawn.vercel.app/audit/landing_page_1783938254829.png"],
+    images: ["https://luxe-restaurant-fawn.vercel.app/audit/hero_clean.png"],
   },
 };
 
