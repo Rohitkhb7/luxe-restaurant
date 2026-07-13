@@ -164,7 +164,7 @@ export default function Footer() {
               &copy; {new Date().getFullYear()} L&apos;Étoile Fine Dining. All Rights Reserved.
             </p>
             <p className="text-[9px] text-muted-gray/40 font-light mt-0.5">
-              Designed &amp; Developed by Antigravity Agency.
+              Designed &amp; Developed by Rohit Kumar Kushwaha.
             </p>
           </div>
 
